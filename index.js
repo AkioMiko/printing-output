@@ -46,6 +46,7 @@ a < b
 !a || !c 
 */
 
+//TASK 2
 // Declare the variable first_name and assign it with the value of your first name;
 let first_name = "Albin"
 
